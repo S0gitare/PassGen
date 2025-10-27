@@ -7,8 +7,6 @@ from PyQt5.QtWidgets import (
     QCheckBox,
 )
 from PyQt5 import uic
-import sys
-from utilsfunc import gerar_senha
 import utilsfunc
 
 
